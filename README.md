@@ -26,6 +26,17 @@
 
 ---
 
+# 🌟 My Salesforce Universe
+
+🏆 **Trailhead Profile**:  
+[![Salesforce Trailblazer](https://img.shields.io/badge/Trailblazer_Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/gcolucci16)
+
+🎖️ **Credly Certifications**:  
+[![Credly Certifications](https://img.shields.io/badge/Credly_Badges-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/giovanni-colucci.a156dd50)
+
+
+---
+
 # 🛠️ My Salesforce Tech Stack
 
 ### 🚀 Salesforce & Vlocity
