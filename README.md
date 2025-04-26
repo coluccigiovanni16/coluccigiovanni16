@@ -67,14 +67,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coluccigiovanni16&theme=radical&hide_border=false&layout=compact" width="50%" />
 </p>
 
----
+<!---
 
 # 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coluccigiovanni16&theme=radical&no-frame=true&column=7&margin-w=10" />
 </p>
 
----
+--->
 
 # 🎮 Fun Contribution Graphs
 <p align="center">
