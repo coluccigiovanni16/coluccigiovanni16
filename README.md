@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Salesforce Industries implementations for global enterprise clients, with a focus on Communications, Media, and Technology (CMT) industries.<br>👯 I’m looking to collaborate on Salesforce/Vlocity projects, digital transformation initiatives, and cloud integration solutions.<br>🤝 I’m looking for help with exploring AI-powered solutions in Salesforce, including Einstein AI and Data Cloud innovations.<br>🌱 I’m currently learning more about advanced Salesforce AI capabilities, industry-specific Salesforce Clouds, and TM Forum Open APIs.<br>💬 Ask me about Salesforce Industries (Vlocity), CPQ/EPC solutions, OmniStudio, Agile project delivery, and Cloud Integration strategies.<br>⚡ Fun fact: I have worked on Salesforce projects across three continents — Europe, Africa, and Australia — and I love connecting technology with real-world business needs!<br>
