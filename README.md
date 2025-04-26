@@ -1,4 +1,3 @@
-<img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
@@ -110,11 +109,12 @@
 
 ---
 
-# ✍️ Dev Quote of the Day
+# ✍️ Dev Quote of the Life
 
-<p align="center">
+<!--p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+</p-->
+<img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 
 ---
 
