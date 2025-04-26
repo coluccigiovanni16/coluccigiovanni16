@@ -19,6 +19,7 @@
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/coluccigiovanni16" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@coluccigiovanni16" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -36,12 +37,12 @@
 🎖️ **Credly Certifications**:  
 [![Credly Certifications](https://img.shields.io/badge/Credly_Badges-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/giovanni-colucci.a156dd50)
 
-
 ---
 
 # 🛠️ My Salesforce Tech Stack
 
 ### 🚀 Salesforce & Vlocity
+
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Vlocity](https://img.shields.io/badge/-Vlocity-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![OmniStudio](https://img.shields.io/badge/-OmniStudio-1A73E8?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -50,6 +51,7 @@
 ![MuleSoft](https://img.shields.io/badge/-MuleSoft-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -58,6 +60,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 🧠 AI, Python & Data
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -65,12 +68,14 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🎨 Design & Productivity
+
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 # 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coluccigiovanni16&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coluccigiovanni16&theme=radical&hide_border=false" width="49%"/>
@@ -90,6 +95,7 @@
 --->
 
 # 🎮 Fun Contribution Graphs
+
 <p align="center">
   <a href="https://github.com/coluccigiovanni16">
     <img src="https://raw.githubusercontent.com/coluccigiovanni16/coluccigiovanni16/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
@@ -105,6 +111,7 @@
 ---
 
 # ✍️ Dev Quote of the Day
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
@@ -112,7 +119,9 @@
 ---
 
 # 🌍 Active Time Zones
+
 ```text
 🌍 Rome     — 09:00 - 20:00 (CET/CEST)
 🌎 Sydney   — 17:00 - 05:00 (AEDT)
 🌍 London   — 08:00 - 19:00 (GMT)
+```
