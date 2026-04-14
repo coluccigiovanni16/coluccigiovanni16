@@ -130,6 +130,4 @@
 
 # 📰 Latest Articles
 
-<!-- RSS-ARTICLES:START -->
-- Loading latest posts...
-<!-- RSS-ARTICLES:END -->
+<!-- RSS-ARTICLES:START -->- [GitHub Actions for Salesforce: Production-Ready CI/CD Pipeline](https://coluccigiovanni.com/blog/github-actions-salesforce-cicd)- [Salesforce Flow Best Practices: Building Scalable Automations in 2026](https://coluccigiovanni.com/blog/salesforce-flow-best-practices)- [AI in Salesforce: Einstein GPT, Copilot &amp; Agentforce Explained](https://coluccigiovanni.com/blog/salesforce-einstein-agentforce-ai)<!-- RSS-ARTICLES:END -->
