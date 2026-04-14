@@ -29,7 +29,8 @@ jobs:
           comment_tag_name: RSS-ARTICLES
           feed_list: https://www.coluccigiovanni.com/feed.xml
           max_post_count: 3
-          template: "- [$title]($url)"
+          template: "$emojiKey(🔥,⚡,🤖) &nbsp;**[$title]($url)**$newline> 🗓 `$date`$newline$newline"
+          tag_post_pre_newline: "true"
           readme_path: README.md
           # Show publication date next to each title
           date_format: "UTC:dd mmm yyyy"

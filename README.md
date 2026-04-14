@@ -1,4 +1,8 @@
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=coluccigiovanni16&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
 # I'm 👨‍💻 Giovanni Colucci
@@ -109,11 +113,11 @@
 
 ---
 
-# ✍️ Dev Quote of the Life
+# ✍️ Random Dev Quote
 
-<!--p align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p-->
+</p>
 <img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 
 ---
@@ -128,6 +132,20 @@
 
 ---
 
-# 📰 Latest Articles
+# �️ Latest from My Blog
 
-<!-- RSS-ARTICLES:START -->- [GitHub Actions for Salesforce: Production-Ready CI/CD Pipeline](https://coluccigiovanni.com/blog/github-actions-salesforce-cicd)- [Salesforce Flow Best Practices: Building Scalable Automations in 2026](https://coluccigiovanni.com/blog/salesforce-flow-best-practices)- [AI in Salesforce: Einstein GPT, Copilot &amp; Agentforce Explained](https://coluccigiovanni.com/blog/salesforce-einstein-agentforce-ai)<!-- RSS-ARTICLES:END -->
+<sub>Auto-updated daily via GitHub Actions &nbsp;·&nbsp; 📡 <a href="https://www.coluccigiovanni.com/feed.xml">RSS Feed</a> &nbsp;·&nbsp; 🌐 <a href="https://www.coluccigiovanni.com">coluccigiovanni.com</a></sub>
+
+<!-- RSS-ARTICLES:START -->
+🔥 &nbsp;**[GitHub Actions for Salesforce: Production-Ready CI/CD Pipeline](https://coluccigiovanni.com/blog/github-actions-salesforce-cicd)**
+> 🗓 `30 Mar 2026`
+
+⚡ &nbsp;**[Salesforce Flow Best Practices: Building Scalable Automations in 2026](https://coluccigiovanni.com/blog/salesforce-flow-best-practices)**
+> 🗓 `28 Mar 2026`
+
+🤖 &nbsp;**[AI in Salesforce: Einstein GPT, Copilot & Agentforce Explained](https://coluccigiovanni.com/blog/salesforce-einstein-agentforce-ai)**
+> 🗓 `25 Mar 2026`
+
+<!-- RSS-ARTICLES:END -->
+
+<p align="right"><a href="https://www.coluccigiovanni.com">➡️ &nbsp;Read all posts</a></p>
