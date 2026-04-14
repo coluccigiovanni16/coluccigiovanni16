@@ -1,0 +1,25 @@
+name: Update RSS Articles
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-rss:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with latest RSS articles
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: RSS-ARTICLES
+          feed_list: https://www.coluccigiovanni.com/feed.xml
+          max_post_count: 3
+          template: "- [$title]($url)"
+          readme_path: README.md
