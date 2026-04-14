@@ -1,12 +1,9 @@
-name: Fun Generator (Snake + Pacman)
+name: Fun Generator (Snake + Pacman) [manual only]
+# Schedule and push triggers moved to rss-articles.yml (Daily Profile Updater)
+# Run this workflow manually if you need to regenerate graphs in isolation.
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate-fun:

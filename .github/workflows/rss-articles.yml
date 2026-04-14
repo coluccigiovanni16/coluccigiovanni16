@@ -1,13 +1,21 @@
-name: Update RSS Articles
+name: Daily Profile Updater
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 6 * * *"  # every day at 06:00 UTC
   workflow_dispatch:
 
+# Prevent two runs from stepping on each other's commits
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
 jobs:
-  update-readme-with-rss:
+  # ── Job 1: pull latest blog posts and update README ──────────────────────
+  update-rss:
+    name: Update RSS Articles
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
 
@@ -15,7 +23,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with latest RSS articles
+      - name: Inject latest 3 posts into README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: RSS-ARTICLES
@@ -23,3 +31,47 @@ jobs:
           max_post_count: 3
           template: "- [$title]($url)"
           readme_path: README.md
+          # Show publication date next to each title
+          date_format: "UTC:dd mmm yyyy"
+          # Retry up to 3 times if the feed is temporarily unreachable
+          retry_count: 3
+          retry_wait_time: 5
+          commit_message: "chore: update RSS articles [skip ci]"
+          disable_sort: false
+          sort_order: desc
+
+  # ── Job 2: regenerate Snake & Pacman contribution graphs ─────────────────
+  generate-animations:
+    name: Generate Contribution Graphs
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Generate GitHub Snake Animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy Animations to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "chore: update contribution graphs [skip ci]"
