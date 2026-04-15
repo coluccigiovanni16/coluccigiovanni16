@@ -143,8 +143,9 @@
 ⚡ &nbsp;**[Salesforce Flow Best Practices: Building Scalable Automations in 2026](https://coluccigiovanni.com/blog/salesforce-flow-best-practices)**
 > 🗓 `28 Mar 2026`
 
-🤖 &nbsp;**[AI in Salesforce: Einstein GPT, Copilot & Agentforce Explained](https://coluccigiovanni.com/blog/salesforce-einstein-agentforce-ai)**
+🤖 &nbsp;**[AI in Salesforce: Einstein GPT, Copilot &amp; Agentforce Explained](https://coluccigiovanni.com/blog/salesforce-einstein-agentforce-ai)**
 > 🗓 `25 Mar 2026`
+
 
 <!-- RSS-ARTICLES:END -->
 
