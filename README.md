@@ -137,13 +137,13 @@
 <sub>Auto-updated daily via GitHub Actions &nbsp;·&nbsp; 📡 <a href="https://www.coluccigiovanni.com/feed.xml">RSS Feed</a> &nbsp;·&nbsp; 🌐 <a href="https://www.coluccigiovanni.com">coluccigiovanni.com</a></sub>
 
 <!-- RSS-ARTICLES:START -->
-🔥 &nbsp;**[GitHub Actions for Salesforce: Production-Ready CI/CD Pipeline](https://coluccigiovanni.com/blog/github-actions-salesforce-cicd)**
+🔥 &nbsp;**[GitHub Actions for Salesforce: Production-Ready CI/CD Pipeline](https://www.coluccigiovanni.com/blog/github-actions-salesforce-cicd)**
 > 🗓 `30 Mar 2026`
 
-⚡ &nbsp;**[Salesforce Flow Best Practices: Building Scalable Automations in 2026](https://coluccigiovanni.com/blog/salesforce-flow-best-practices)**
+⚡ &nbsp;**[Salesforce Flow Best Practices: Building Scalable Automations in 2026](https://www.coluccigiovanni.com/blog/salesforce-flow-best-practices)**
 > 🗓 `28 Mar 2026`
 
-🤖 &nbsp;**[AI in Salesforce: Einstein GPT, Copilot &amp; Agentforce Explained](https://coluccigiovanni.com/blog/salesforce-einstein-agentforce-ai)**
+🤖 &nbsp;**[AI in Salesforce: Einstein GPT, Copilot &amp; Agentforce Explained](https://www.coluccigiovanni.com/blog/salesforce-einstein-agentforce-ai)**
 > 🗓 `25 Mar 2026`
 
 
